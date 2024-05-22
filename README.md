@@ -25,7 +25,7 @@ Hello there! I'm Jan, currently pursuing a Bachelor of Science in Aerospace Engi
 ## 📫 How to Reach Me
 
 - **LinkedIn:** [Jan Heimann](https://www.linkedin.com/in/jan-heimann-2087ba197/)
-- **Email:** [jan.heimann@email.com] *(replace with your actual email)*
+- **Email:** [jan.heimann@tum.de]
 
 ## 👥 Collaboration
 
