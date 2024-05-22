@@ -11,9 +11,11 @@ Hello there! I'm Jan, currently pursuing a Bachelor of Science in Aerospace Engi
 
 ## 💻 Technologies
 
-- Swift
-- Python
-- CAD Tools
+- **Programming Languages:** Python (Data Analysis, Machine Learning), Swift
+- **AI & Machine Learning:** Neural Networks, Predictive Modeling, Data Science
+- **Simulation Software:** MATLAB, Simulink (for dynamic simulation and systems engineering)
+- **CAD Tools:** AutoCAD, SolidWorks
+- **Engineering Software:** ANSYS (for finite element analysis), CFD software for fluid dynamics
 
 ## 🛠️ Projects
 
