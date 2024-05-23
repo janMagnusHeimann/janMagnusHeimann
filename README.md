@@ -5,7 +5,7 @@ Hello there! I'm Jan, currently pursuing a Bachelor of Science in Aerospace Engi
 ## 🚀 About Me
 
 - 🔭 I’m currently working as a Software Engineer at TUM.ai, focusing on innovative AI solutions.
-- 🌱 Im an Intern at Rocket Factory Augsburg, where I work on AI-based optimization for space applications.
+- 🌱 Im an Intern at Rocket Factory Augsburg, where I work on AI-based optimization for space vehicles.
 - 👨‍💻 With experience as a Mechanical Engineer and a Structural Engineer, I have a diverse background in project management and CAD.
 - 🌌 Passionate about making humanity a multiplanetary species and leveraging space for sustainable solutions.
 
