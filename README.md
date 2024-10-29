@@ -28,20 +28,6 @@ A domain-specific text embedding model focused on engineering literature. EnginB
 - **Technologies**: Python, PyTorch, Transformers, Custom Tokenizer, Git LFS
 - **Highlights**: Created to address the limitations of general-purpose NLP models for engineering literature, EnginBERT is tailored for engineering-specific tasks, with a focus on precision in domain-specific vocabulary and concepts.
 
-### Bachelor Thesis
-This repository holds the code and analysis for my bachelor's thesis in aerospace engineering. The project focuses on [describe briefly the focus of your thesis].
-
-- **Repo**: [bachelorthesis](https://github.com/janMagnusHeimann/bachelorthesis)
-- **Technologies**: MATLAB
-- **Highlights**: Developed an optimized framework for [insert key topic, e.g., structural analysis, aerospace design].
-
-### TUM.ai MIT Impact Project
-As part of TUM.ai's MIT Impact Project, this repository showcases my work on [project description, e.g., developing AI solutions for specific applications].
-
-- **Repo**: [tum_ai_MIT_impact_project](https://github.com/janMagnusHeimann/tum_ai_MIT_impact_project)
-- **Technologies**: Python, AI/ML Libraries
-- **Highlights**: Collaborated with the TUM.ai team on impactful AI projects, focusing on [specific use case or achievement].
-
 ### Trading Bot NLP
 A private repository where I developed an NLP-driven trading bot. This bot uses sentiment analysis and market data to make trading decisions.
 
