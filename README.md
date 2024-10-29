@@ -1,36 +1,67 @@
-# Jan Heimann
+Jan Magnus Heimann
+🚀 Aerospace Engineering Student | Machine Learning Engineer
+📍 Germany
+LinkedIn • GitHub • 📧 jan_heimann@icloud.com
 
-Hello there! I'm Jan, currently pursuing a Bachelor of Science in Aerospace Engineering at the Technical University of Munich. With a strong foundation in both aerospace engineering and planetary astronomy, I am keen on developing solutions that enhance space exploration and sustainability.
+Welcome to my GitHub profile! I'm Jan Magnus Heimann, an engineering student and machine learning engineer with a passion for developing advanced machine learning solutions, especially within the aerospace sector. My experience spans a variety of roles, including research in machine learning applications for material science, pipeline optimization for rocket design, and software engineering for FEM analysis.
 
-## 🚀 About Me
+🧰 Technical Skills
+Programming & Tools: Python, Git, CI/CD, JavaScript, SQL, MATLAB, Docker, Azure, AWS, PHP, HTML, SSH
+Machine Learning: PyTorch, Scikit-learn, TensorFlow, Keras, GAT, GNN, WandB, Theano, LLM, GPT, XGBoost
+Physics & Engineering: FEM, CAD, Abaqus, Orbital Mechanics, Rigid Body Dynamics, Hypermesh, Optistruct
+📚 Education
+B.Sc. Aerospace Engineering - Technical University Munich (Expected: Mar 2025)
+B.Sc. Astronomical and Planetary Sciences - Arizona State University (Expected: Sept 2025)
+🔬 Featured Projects
+EnginBERT
+A domain-specific text embedding model focused on engineering literature. EnginBERT leverages BERT's architecture and is fine-tuned to handle specialized engineering terminology, enabling more effective tasks like information retrieval, clustering, and classification within engineering fields.
 
-- 🔭 I’m currently working as a Software Engineer at TUM.ai, focusing on innovative AI solutions.
-- 🌱 Im an Intern at Rocket Factory Augsburg, where I work on AI-based optimization for space vehicles.
-- 👨‍💻 With experience as a Mechanical Engineer and a Structural Engineer, I have a diverse background in project management and CAD.
-- 🌌 Passionate about making humanity a multiplanetary species and leveraging space for sustainable solutions.
+Repo: EnginBERT
+Technologies: Python, PyTorch, Transformers, Custom Tokenizer, Git LFS
+Highlights: Created to address the limitations of general-purpose NLP models for engineering literature, EnginBERT is tailored for engineering-specific tasks, with a focus on precision in domain-specific vocabulary and concepts.
+Bachelor Thesis
+This repository holds the code and analysis for my bachelor's thesis in aerospace engineering. The project focuses on [describe briefly the focus of your thesis].
 
-## 💻 Technologies
+Trading Bot NLP
+A private repository where I developed an NLP-driven trading bot. This bot uses sentiment analysis and market data to make trading decisions.
 
-- **Programming Languages:** Python (Data Analysis, Machine Learning), Swift
-- **AI & Machine Learning:** Neural Networks, Predictive Modeling, Data Science
-- **Simulation Software:** MATLAB, Simulink (for dynamic simulation and systems engineering)
-- **CAD Tools:** AutoCAD, SolidWorks
-- **Engineering Software:** ANSYS (for finite element analysis), CFD software for fluid dynamics
+Technologies: Python, NLP, Machine Learning
+Highlights: Developed algorithms for analyzing real-time market sentiment to inform trading decisions, improving overall prediction accuracy by X%.
+Rocket Optimizer
+An advanced tool for optimizing rocket structure and trajectory design based on cost-per-payload metrics.
 
-## 🛠️ Projects
+Repo: rocketOptimizer (Private)
+Technologies: MATLAB
+Highlights: Contributed to a significant price reduction for a new generation of rockets by optimizing design materials and configurations, resulting in a $1.5M cost savings.
+💼 Professional Experience
+Assistant Machine Learning Researcher
+MIT (May 2024 - Present)
 
-- **AI Optimization for Space Launch Vehicles**: Developed models to optimize space vehicle design at Rocket Factory Augsburg.
-- **Tunneling Innovation**: Worked on innovative tunneling methods at TUM Boring, implementing advanced CAD designs.
+Led GNN advancements, increasing prediction accuracy for material properties by 9.2%.
+Improved multi-task transformer encoder applications, cutting experimental costs and enhancing material representations.
+Machine Learning Engineer
+Rocket Factory Augsburg (Mar 2024 - Present)
 
-## 📫 How to Reach Me
+Built a cost-per-payload optimization pipeline for rockets.
+Directed a team, resulting in a $1.5M cost reduction for next-gen rockets.
+Software Engineer
+OHB Systems AG (May 2023 - Mar 2024)
 
-- **LinkedIn:** [Jan Heimann](https://www.linkedin.com/in/jan-heimann-2087ba197/)
-- **Email:** [jan.heimann@tum.de]
+Developed tools for FEM analysis, saving 5 hours/week for team members.
+Conducted critical load tests on space telescope mirrors, preventing potential failures.
+Software Engineer Intern
+BMW (Aug 2020 - May 2021)
 
-## 👥 Collaboration
+Developed an internal job search platform, helping 85+ employees find new roles.
+Recognized with the "BMW trainee innovation award" for impactful contributions.
+📄 Publications
+"Reaction Graph Networks for Inorganic Synthesis Condition Prediction"
+AI4Mat-NeurIPS 2024: This research focuses on accelerated material discovery, achieving a 15% reduction in experimental efforts.
 
-I’m open to collaborating on projects related to aerospace applications, AI in space technology, and sustainable use of space resources. Feel free to reach out if you’re interested in partnering up!
+"Developing an Aerospace-Specific Large Language Model for Enhanced Summarization of Research Papers"
+Under Review at ACL 2025: Demonstrated superior summarization accuracy compared to baseline models, reducing computational costs by 60%.
 
+Feel free to explore my repositories and reach out if you're interested in collaboration or have any questions about my work. Thanks for visiting!
 
 
 <!---
