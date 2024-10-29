@@ -2,7 +2,7 @@
 
 🚀 **Aerospace Engineering Student | Machine Learning Engineer**  
 📍 **Germany**  
-[LinkedIn](https://www.linkedin.com/in/jan-heimann) • [GitHub](https://github.com/janMagnusHeimann) • 📧 jan.heimann@tum.de
+[LinkedIn](https://www.linkedin.com/in/jan-heimann) •  📧 jan.heimann@tum.de
 
 ---
 
