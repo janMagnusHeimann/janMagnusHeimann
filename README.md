@@ -13,11 +13,10 @@
 
 I'm a **Senior AI/ML Engineer** with deep expertise in **Large Language Models**, **Agentic Systems**, and **MLOps** at scale. My work spans from **aerospace optimization** to **autonomous AI agents**, consistently delivering **measurable business impact** in fast-paced startup environments.
 
-**Current Focus:** Architecting **multi-million euro** ad optimization systems using **RL + LLM** hybrid approaches at **DRWN AI**.
+**Current Focus:** Architecting ad optimization systems using **RL + LLM** hybrid approaches at **DRWN AI**.
 
 ### 🏆 Key Achievements
-- **$1.5M cost reduction** in rocket manufacturing through AI-driven optimization
-- **20% improvement** in ad budget efficiency using autonomous AI agents  
+- **$1.5M cost reduction** in rocket manufacturing through AI-driven optimization 
 - **9.2% accuracy boost** in material science predictions with advanced GNNs
 - **15% reduction** in experimental effort through novel ML architectures
 - **300+ GitHub stars** for an architecture testing library
