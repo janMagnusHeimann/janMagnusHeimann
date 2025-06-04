@@ -153,7 +153,7 @@ I'm a **Senior AI/ML Engineer** with deep expertise in **Large Language Models**
 
 **Interested in collaboration?** I'm always excited to discuss:
 - **AI/ML Architecture** for production systems
-- **Research Partnerships** in materials science & aerospace
+- **Research Partnerships**
 - **Startup Opportunities** in AI-driven industries
 - **Open Source Contributions** to ML tooling
 
