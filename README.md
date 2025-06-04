@@ -20,7 +20,7 @@ I'm a **Senior AI/ML Engineer** with deep expertise in **Large Language Models**
 - **20% improvement** in ad budget efficiency using autonomous AI agents  
 - **9.2% accuracy boost** in material science predictions with advanced GNNs
 - **15% reduction** in experimental effort through novel ML architectures
-- **300+ GitHub stars** across architecture testing and ML projects
+- **300+ GitHub stars** for an architecture testing library
 
 ---
 
