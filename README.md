@@ -27,7 +27,7 @@ I'm a **Senior AI/ML Engineer** with deep expertise in **Large Language Models**
 ## 🔬 Featured Repositories
 
 ### 🏗️ Architecture & Testing
-- **[ArchUnit-TS](https://github.com/janMagnusHeimann/archunit-ts)** ![Stars](https://img.shields.io/github/stars/janMagnusHeimann/archunit-ts?style=social)
+- **[ArchUnit-TS](https://github.com/LukasNiessen/archunit-ts)** ![Stars](https://img.shields.io/github/stars/LukasNiessen/archunit-ts?style=social)
   - TypeScript architecture testing framework inspired by Java ArchUnit
   - **300+ stars** | Enforces architectural rules and dependency constraints
   - **Impact:** Adopted by enterprises for maintaining clean code architecture
