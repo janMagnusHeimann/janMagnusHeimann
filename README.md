@@ -130,7 +130,7 @@ I'm a **Senior AI/ML Engineer** with deep expertise in **Large Language Models**
   - Novel GNN architecture for materials science applications
 
 - **"Aerospace-Specific LLM for Enhanced Research Summarization"**
-  - *Under Review at ACL 2025* | **60% computational cost reduction**
+  -  **10% computational cost reduction**
   - Domain-specialized language models for technical literature
 
 ---
