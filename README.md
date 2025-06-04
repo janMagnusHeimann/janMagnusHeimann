@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Portfolio-heimann.ai-blue?style=flat-square&logo=safari)](https://heimann.ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jan--heimann-0077b5?style=flat-square&logo=linkedin)](https://linkedin.com/in/jan-heimann)
-[![X](https://img.shields.io/badge/Twitter-@heimannjanm-1da1f2?style=flat-square&logo=twitter)](https://x.com/heimannjanm)
+[![X](https://img.shields.io/badge/X-@heimannjanm-1da1f2?style=flat-square&logo=twitter)](https://x.com/heimannjanm)
 [![Email](https://img.shields.io/badge/Email-jan@heimann.ai-d14836?style=flat-square&logo=gmail)](mailto:jan@heimann.ai)
 
 > **Building the future of AI-driven systems** | **4+ years of production ML experience** | **$1.5M+ in proven cost savings**
