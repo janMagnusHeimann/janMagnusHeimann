@@ -170,11 +170,9 @@ I'm a **Senior AI/ML Engineer** with deep expertise in **Large Language Models**
 -->
 
 ### 🏆 GitHub Achievements
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=janMagnusHeimann&theme=github-dark&hide_border=true&area=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janMagnusHeimann&theme=dark)
 
-<!-- Alternative: Recent Contribution Stats -->
-<!-- ![Recent Activity](https://github-readme-stats.vercel.app/api?username=janMagnusHeimann&show_icons=true&theme=dark&count_private=true&include_all_commits=false) -->
-
+---
 ---
 
 **⭐ If you find my work valuable, consider starring my repositories!**
