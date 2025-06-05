@@ -19,7 +19,7 @@ I'm a **Senior AI/ML Engineer** with deep expertise in **Large Language Models**
 - **$1.5M cost reduction** in rocket manufacturing through AI-driven optimization 
 - **9.2% accuracy boost** in material science predictions with advanced GNNs
 - **15% reduction** in experimental effort through novel ML architectures
-- **500+ GitHub stars** for an architecture testing library
+- **400+ GitHub stars** for an architecture testing library
 
 ---
 
@@ -28,7 +28,7 @@ I'm a **Senior AI/ML Engineer** with deep expertise in **Large Language Models**
 ### 🏗️ Architecture & Testing
 - **[ArchUnit-TS](https://github.com/LukasNiessen/ArchUnitTS)** ![Stars](https://img.shields.io/github/stars/LukasNiessen/ArchUnitTS?style=social)
   - TypeScript architecture testing framework inspired by Java ArchUnit
-  - **300+ stars** | Enforces architectural rules and dependency constraints
+  - **400+ stars** | Enforces architectural rules and dependency constraints
   - **Impact:** Adopted by enterprises for maintaining clean code architecture
 
 ### 🤖 AI & Machine Learning
