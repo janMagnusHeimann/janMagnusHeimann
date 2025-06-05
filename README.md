@@ -19,7 +19,7 @@ I'm a **Senior AI/ML Engineer** with deep expertise in **Large Language Models**
 - **$1.5M cost reduction** in rocket manufacturing through AI-driven optimization 
 - **9.2% accuracy boost** in material science predictions with advanced GNNs
 - **15% reduction** in experimental effort through novel ML architectures
-- **300+ GitHub stars** for an architecture testing library
+- **500+ GitHub stars** for an architecture testing library
 
 ---
 
