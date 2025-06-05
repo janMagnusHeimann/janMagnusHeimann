@@ -117,7 +117,7 @@ I'm a **Senior AI/ML Engineer** with deep expertise in **Large Language Models**
 | **Efficiency Gains** | **20%** | Ad budget optimization systems |
 | **Accuracy Improvements** | **9.2%** | Material science predictions |
 | **Time Reduction** | **60%** | Research automation workflows |
-| **GitHub Stars** | **300+** | Open-source architecture tools |
+| **GitHub Stars** | **400+** | Open-source architecture tools |
 
 ---
 
