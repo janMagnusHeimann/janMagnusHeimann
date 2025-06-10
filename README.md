@@ -28,7 +28,7 @@ I'm a **Senior AI/ML Engineer** with deep expertise in **Large Language Models**
 ### 🏗️ Architecture & Testing
 - **[ArchUnit-TS](https://github.com/LukasNiessen/ArchUnitTS)** ![Stars](https://img.shields.io/github/stars/LukasNiessen/ArchUnitTS?style=social)
   - TypeScript architecture testing framework inspired by Java ArchUnit
-  - **400+ stars** | Enforces architectural rules and dependency constraints
+  - **600+ stars** | Enforces architectural rules and dependency constraints
   - **Impact:** Adopted by enterprises for maintaining clean code architecture
 
 ### 🤖 AI & Machine Learning
