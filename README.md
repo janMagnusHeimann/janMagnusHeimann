@@ -168,8 +168,6 @@ I'm a **Senior AI/ML Engineer** with deep expertise in **Large Language Models**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janMagnusHeimann&layout=compact&theme=dark)
 -->
 
-### 🏆 GitHub Achievements
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janMagnusHeimann&theme=dark)
 
 ---
 ---
