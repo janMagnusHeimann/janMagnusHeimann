@@ -5,7 +5,7 @@
 [![X](https://img.shields.io/badge/X-@heimannjanm-1da1f2?style=flat-square&logo=twitter)](https://x.com/heimannjanm)
 [![Email](https://img.shields.io/badge/Email-jan@heimann.ai-d14836?style=flat-square&logo=gmail)](mailto:jan@heimann.ai)
 
-> **Building the future of AI-driven systems** | **4+ years of production ML experience** | **$1.5M+ in proven cost savings**
+> **Building the future of AI-driven systems** | **5+ years of production ML experience** | **$1.5M+ in proven cost savings**
 
 ---
 
