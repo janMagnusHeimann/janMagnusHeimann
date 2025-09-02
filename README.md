@@ -28,23 +28,8 @@ I'm a **Senior AI/ML Engineer** with deep expertise in **Large Language Models**
 ### 🏗️ Architecture & Testing
 - **[ArchUnit-TS](https://github.com/LukasNiessen/ArchUnitTS)** ![Stars](https://img.shields.io/github/stars/LukasNiessen/ArchUnitTS?style=social)
   - TypeScript architecture testing framework inspired by Java ArchUnit
-  - **600+ stars** | Enforces architectural rules and dependency constraints
+  - **200+ stars** | Enforces architectural rules and dependency constraints
   - **Impact:** Adopted by enterprises for maintaining clean code architecture
-
-### 🤖 AI & Machine Learning
-- **[DevPilot AI](https://github.com/janMagnusHeimann/DevPilotAI)** ![Stars](https://img.shields.io/github/stars/janMagnusHeimann/DevPilotAI?style=social)
-  - Autonomous code generation & review agent with **75% accuracy**
-  - **Tech:** Python, CodeLlama, LangChain, GitHub Actions CI/CD
-  - **Impact:** Accelerates development workflows for engineering teams
-
-- **[LegalEase RAG](https://github.com/janMagnusHeimann/LegalEaseRAG)** ![Stars](https://img.shields.io/github/stars/janMagnusHeimann/LegalEaseRAG?style=social)
-  - **🥇 1st Place** at AI Startup Weekend 2023
-  - Real-time RAG system for legal document analysis
-  - **Tech:** Qdrant, Mistral-7B, sub-second queries on 10k+ precedents
-
-- **[Autonomous Research Agent](https://github.com/janMagnusHeimann/ResearchAgent)** ![Stars](https://img.shields.io/github/stars/janMagnusHeimann/ResearchAgent?style=social)
-  - Web research automation with **60% time reduction**
-  - **Tech:** Selenium, OpenAI API, automated report generation
 
 ### 🚀 Aerospace & Optimization
 - **[EnginBERT](https://github.com/janMagnusHeimann/EnginBERT)** ![Stars](https://img.shields.io/github/stars/janMagnusHeimann/EnginBERT?style=social)
@@ -117,7 +102,7 @@ I'm a **Senior AI/ML Engineer** with deep expertise in **Large Language Models**
 | **Efficiency Gains** | **20%** | Ad budget optimization systems |
 | **Accuracy Improvements** | **9.2%** | Material science predictions |
 | **Time Reduction** | **60%** | Research automation workflows |
-| **GitHub Stars** | **400+** | Open-source architecture tools |
+| **GitHub Stars** | **200+** | Open-source architecture tools |
 
 ---
 
