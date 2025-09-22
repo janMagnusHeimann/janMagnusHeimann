@@ -44,7 +44,14 @@ I'm a **Senior AI/ML Engineer** with deep expertise in **Large Language Models**
 
 ---
 
+
+
 ## 💼 Professional Experience
+
+### 🤖 **Freelance Senior AI Architect and Project Manager** | **Lemonflow AI** | *Aug 2025 - Present*
+- **Built AI-powered support solutions** improving **voice chatbot latency by 30%** and **onboarding time by 70%**
+- **Led scalable AI infrastructure** serving **thousands of interactions** for enterprise clients
+- **Developed autonomous prompt agent** boosting **satisfaction by 34%** and reducing **escalations by 45%**
 
 ### 🎯 **Machine Learning Engineer** | **DRWN AI** | *Apr 2025 - Present*
 - **Architecting RL models** with LLM-driven analytics for **multi-million euro** ad budgets
@@ -56,10 +63,28 @@ I'm a **Senior AI/ML Engineer** with deep expertise in **Large Language Models**
 - **Multi-task transformer architectures** with **4.7% representation accuracy** gains
 - **Published at NeurIPS 2024** - cutting experimental effort by **15%**
 
-### 🚀 **ML Engineer** | **Rocket Factory Augsburg** | *Mar 2024 - Mar 2025*
+### 📚 **Machine Learning Engineer/Advisor (Part-time)** | **Deepmask GmbH** | *Oct 2024 - Mar 2025*
+- **Fine-tuned 70B LLM (DeepSeek R1)** with LoRA achieving **+4% BLEU** and **+6% ROUGE-L** on benchmarks
+- **Implemented production RAG system** with **92% retrieval accuracy** on 100K+ documents
+- **Optimized inference strategies** for **3x throughput** and comprehensive evaluation frameworks
+
+- ### 🚀 **ML Engineer** | **Rocket Factory Augsburg** | *Mar 2024 - Mar 2025*
 - **Led team of 3** reporting directly to COO on AI-driven rocket optimization
 - **Architected Neo4j graph database** for GNN-based design generation (5000+ configurations)
-- **Delivered $1.5M cost reduction** through AI-optimized materials and structures
+- **Delivered $1.5M cost reduction** through AI-optimized materials and structures.
+
+### 🛰️ **Software Engineer** | **OHB Systems AG** | *Jan 2023 - Mar 2024*
+- **Automated FEM analysis pipeline** using Gaussian Processes, reducing **cycle time by 25%**
+- **Developed LSTM anomaly detection** for satellite data with interpretable attention mechanisms
+
+### 💰 **Co-Founder/Software Lead** | **GetMoBie GmbH** | *Jan 2021 - Dec 2022*
+- **Led mobile banking app development** serving **20K+ users**, presented at "Die Höhle der Löwen"
+- **Implemented ML models** for transaction categorization and fraud detection on **1M+ records**
+- **Managed 10-developer team** establishing real-time inference pipelines
+
+### 🚗 **Machine Learning Engineer Intern** | **BMW AG** | *Aug 2020 - May 2021*
+- **Built job recommendation system** facilitating **100+ internal transitions** via collaborative filtering
+- **Implemented document classification** achieving **89% F1-score** on 50K documents
 
 ---
 
