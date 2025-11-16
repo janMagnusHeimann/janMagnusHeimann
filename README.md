@@ -13,7 +13,7 @@
 
 I'm a visionary AI/ML Leader and Solution Architect with expertise in Large Language Models, Multi-Agent Systems, and MLOps at enterprise scale. From revolutionizing aerospace with AI optimizations to architecting autonomous agents for procurement, I've led cross-functional teams to deliver breakthrough innovations that drive multi-million-dollar efficiencies and reshape industries. Passionate about building the future of AI, I thrive in high-growth startups and big tech environments, turning ambitious ideas into scalable realities.
 
-**Current Focus:** Leading AI architecture at askLio (YC23), engineering the world's first multi-agent system for procurement to automate complex workflows and unlock unprecedented efficiency.
+**Current Focus:** AI architecture at askLio (YC23), engineering the world's first multi-agent system for procurement to automate complex workflows and unlock unprecedented efficiency.
 
 ---
 
@@ -57,12 +57,12 @@ AI-driven rocket design optimization
 - Leading AI strategy to integrate LLMs and RL for intelligent decision-making, targeting 50%+ efficiency gains in supply chain operations
 - Collaborating with YC-backed teams to scale innovative AI solutions from prototype to production, driving startup growth
 
-### 🤖 Freelance Senior AI Architect and Project Manager | Lemonflow AI | Aug 2025 - Present
+### 🤖 Freelance Senior AI Architect and Project Manager | Lemonflow AI | Aug 2025 - Oct 2025
 - Built AI-powered support solutions improving voice chatbot latency by 30% and onboarding time by 70%
 - Led scalable AI infrastructure serving thousands of interactions for enterprise clients
 - Developed autonomous prompt agent boosting satisfaction by 34% and reducing escalations by 45%
 
-### 🎯 Machine Learning Engineer | DRWN AI | Apr 2025 - Present
+### 🎯 Freelance AI Engineer | DRWN AI | Apr 2025 - oct 2025
 - Architecting RL models with LLM-driven analytics for multi-million euro ad budgets
 - Engineered autonomous AI agents for real-time data synthesis and campaign optimization
 - Delivered 20% efficiency improvement in ad spend with 15% ROI increase
@@ -201,9 +201,4 @@ Ready to collaborate on game-changing AI? Let's discuss:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janMagnusHeimann&layout=compact&theme=dark)
 -->
 
-
----
----
-
-**⭐ If you find my work valuable, consider starring my repositories!**
 
