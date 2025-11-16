@@ -52,7 +52,7 @@ AI-driven rocket design optimization
 
 ## 💼 Professional Experience
 
-### 🛠️ Solution Architect | askLio (YC23) | Nov 2025 - Present
+### 🛠️ Solution Architect | askLio (YC23) | Oct 2025 - Present
 - Architecting the world's first multi-agent system for procurement, automating end-to-end workflows for global enterprises
 - Leading AI strategy to integrate LLMs and RL for intelligent decision-making, targeting 50%+ efficiency gains in supply chain operations
 - Collaborating with YC-backed teams to scale innovative AI solutions from prototype to production, driving startup growth
@@ -62,7 +62,7 @@ AI-driven rocket design optimization
 - Led scalable AI infrastructure serving thousands of interactions for enterprise clients
 - Developed autonomous prompt agent boosting satisfaction by 34% and reducing escalations by 45%
 
-### 🎯 Freelance AI Engineer | DRWN AI | Apr 2025 - oct 2025
+### 🎯 Freelance AI Engineer | DRWN AI | Apr 2025 - Oct 2025
 - Architecting RL models with LLM-driven analytics for multi-million euro ad budgets
 - Engineered autonomous AI agents for real-time data synthesis and campaign optimization
 - Delivered 20% efficiency improvement in ad spend with 15% ROI increase
